@@ -346,7 +346,7 @@
     "text.rth": "返航",
     "text.serial-clipboard": "序列号已复制至剪切板",
     "text.serial-number": "序列号",
-    "text.serial-warning": "请注意，此选项为高级功能。如果更改串口配置, 接线可能会不同于说明书。br/><br/>若想回到默认值, 请禁用此功能。<br/><br/>",
+    "text.serial-warning": "请注意，此选项为高级功能。如果更改串口配置, 接线可能会不同于说明书<br/><br/>若想回到默认值, 请禁用此功能<br/><br/>",
     "text.sn": "序列号:",
     "text.turtle-mode": "反乌龟模式",
     "text.voltage-prefix": "当电池电压低于",
