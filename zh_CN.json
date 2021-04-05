@@ -29,7 +29,8 @@
     "button.reset-model": "重置模型",
     "button.restore": "恢复",
     "button.save": "保存",
-    "button.saved": "已保存！",
+    
+    "button.saved": "已保存"
     "button.saving": "保存中...",
     "button.select-firmware": "选择本地固件",
     "button.select-remote-firmware": "选择网络固件",
